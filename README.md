@@ -4,7 +4,11 @@
 - 👀 I’m interested in Python, JavaScript, CSS, C++ and Django
 - 🌱 I’m currently learning Vuejs
 - 💞️ I’m looking to collaborate on my upcoming projects
-- 📫 How to reach me https://twitter.com/amoahdevlabs
+
+**📫 How to reach me:**
+- Twitter: https://twitter.com/amoahdevlabs
+- Phone: +233 248544032
+- Email: send2natus@gmail.com
 
 <!---
 AmoahDevLabs/AmoahDevLabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
