@@ -1,4 +1,5 @@
-![master_io](https://user-images.githubusercontent.com/67640747/132719932-e2dfb7a1-695f-45c5-9abc-87652a4bf687.jpg)
+![master_io]
+(https://user-images.githubusercontent.com/67640747/132719932-e2dfb7a1-695f-45c5-9abc-87652a4bf687.jpg)
 
 - 👋 Hi, I’m @AmoahDevLabs!
 - 👀 I’m interested in Python, JavaScript, CSS, C++ and Django
