@@ -1,3 +1,4 @@
+![master](https://user-images.githubusercontent.com/67640747/132718312-b3284b4f-cb6d-49ad-9835-bb8889021150.jpg)
 - 👋 Hi, I’m @AmoahDevLabs
 - 👀 I’m interested in Python, JavaScript, CSS, C++ and Django
 - 🌱 I’m currently learning Vuejs
