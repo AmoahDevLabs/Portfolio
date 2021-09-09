@@ -1,5 +1,6 @@
-![master](https://user-images.githubusercontent.com/67640747/132718312-b3284b4f-cb6d-49ad-9835-bb8889021150.jpg)
-- 👋 Hi, I’m @AmoahDevLabs
+
+- 👋 Hi, I’m @AmoahDevLabs![master_io](https://user-images.githubusercontent.com/67640747/132719043-398a90f6-5755-406a-981c-615596e1251b.jpg)
+
 - 👀 I’m interested in Python, JavaScript, CSS, C++ and Django
 - 🌱 I’m currently learning Vuejs
 - 💞️ I’m looking to collaborate on my upcoming projects
