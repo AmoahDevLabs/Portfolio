@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on my upcoming projects
 
 **📫 How to reach me:**
-- Twitter: https://twitter.com/amoahdevlabs
 - Twitter: [@amoahdevlabs](https://twitter.com/amoahdevlabs)
 - Phone: +233 248544032
 - Email: send2natus@gmail.com
